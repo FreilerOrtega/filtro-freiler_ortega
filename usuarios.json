@@ -1,0 +1,10 @@
+[
+    "usuarios ",
+    {
+        "cedula": 100423090,
+        "nombre": "alejandro",
+        "direccion": "calle 14-11",
+        "telefono": "3124276149"
+    },
+    {}
+]
